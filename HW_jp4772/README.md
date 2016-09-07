@@ -20,4 +20,4 @@ This emerged:
 
 All was well with the world.
 
-![](http://i.giphy.com/9u5SmANtz7zIQ.gif)
+![](http://ak-hdl.buzzfed.com/static/imagebuzz/terminal01/2010/2/2/13/zen-kitty-14134-1265133827-4.jpg)
