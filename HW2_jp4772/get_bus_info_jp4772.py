@@ -30,4 +30,3 @@ with open(file_name, 'wb') as file:
             stop = "N/A"
 
         csv_file.writerow([lat, lon, stop, status])
-        print ("%s,%s,%s,%s" % (lat, lon, stop, status))
