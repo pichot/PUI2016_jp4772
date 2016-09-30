@@ -1,4 +1,4 @@
-# HW1 PUI2016
+# PUI2016 HW1 - jp4772
 
 *Initial Tangent*: To begin, I was having trouble SSHing into compute from gw. Turns out there was an issue with my version of OpenSSH on my Mac. A quick `brew install openssh`, though, took care of things. So, for reference, if a future student runs into issues with the vague `ssh_exchange_identification: Connection closed by remote host` error, have them upgrade OpenSSH and try again.
 

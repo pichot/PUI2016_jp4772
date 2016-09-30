@@ -1,4 +1,4 @@
-# PUI2016 HW3
+# PUI2016 HW3 - jp4772
 
 ## Assignment 1
 Learned the Central Limit Theorem by graphing several different distributions.
